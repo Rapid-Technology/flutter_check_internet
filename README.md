@@ -1,4 +1,4 @@
-# flutter_check_internet
+# Flutter Check Internet
 
 A new Flutter project.
 
