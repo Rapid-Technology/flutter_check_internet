@@ -1,6 +1,6 @@
 # Flutter Check Internet
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/JxG252-ERv0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JxG252-ERv0)
 
 ## Getting Started
 
